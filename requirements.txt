@@ -1,0 +1,7 @@
+cohere
+pymongo
+datasets
+tqdm
+pandas
+dotenv
+
